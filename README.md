@@ -1,2 +1,3 @@
 # cam-listener
-Fire relay based on camera alerts
+Fire relay based on camera alerts using flask
+
